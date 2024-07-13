@@ -1,0 +1,302 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+}
+
+footer {
+    background-color: #0073e6;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+div {
+    margin-bottom: 1em;
+}
+
+button {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005bb5;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.error {
+    color: red;
+}
+
+.dashboard-links {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    color: white;
+    background-color: #0073e6;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #005bb5;
+}
+
+.logout {
+    background-color: #e60000;
+}
+
+.logout:hover {
+    background-color: #b30000;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0073e6;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.error {
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+ul li .button {
+    margin-left: 10px;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="password"],
+form textarea,
+form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.button {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    color: white;
+    background-color: #0073e6;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #005bb5;
+}
+
+.button.delete {
+    background-color: #e60000;
+}
+
+.button.delete:hover {
+    background-color: #b30000;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0073e6;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+.message {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+form input[type="email"],
+form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #005bb5;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0073e6;
+    color: white;
+    position: fixed;
+    width: 50;
+    bottom: 0;
+}

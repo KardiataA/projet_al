@@ -1,0 +1,13 @@
+/* application.css */
+.root {
+    -fx-font-family: 'Arial';
+}
+
+.label {
+    -fx-font-size: 14pt;
+}
+
+.button {
+    -fx-font-size: 14pt;
+    -fx-padding: 10px;
+}
